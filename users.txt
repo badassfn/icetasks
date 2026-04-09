@@ -1,0 +1,5 @@
+admin,9999,admin
+
+staff,1234,staff
+
+visitor,5678,visitor
